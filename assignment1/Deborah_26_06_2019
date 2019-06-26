@@ -1,0 +1,4 @@
+#now=`date +"%d_%m_%Y"`
+#sudo find / -mtime +10 | grep -ie date -e time  > Deborah_$now
+
+
