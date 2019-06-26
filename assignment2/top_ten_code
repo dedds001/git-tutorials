@@ -1,1 +1,12 @@
 sed 's/~/,/g' Exercise_part_2.csv | sort -t ',' -r -k 6| head -n 10 > top_ten
+
+##this is not the same comment
+##new comments added
+#are you kitten me?? 
+=======
+
+##this is not the same comment
+
+##new comments added 
+##i just wasted ten seconds of my life
+
