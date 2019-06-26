@@ -1,6 +1,4 @@
 sed 's/~/,/g' Exercise_part_2.csv | sort -t ',' -r -k 6| head -n 10 > top_ten
-<<<<<<< HEAD
 ##this is not the same comment
-=======
-##new comments added 
->>>>>>> ac1692db8430c0c7eb50df9d94305142cb2a165d
+##new comments added
+#are you kitten me?? 
